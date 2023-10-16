@@ -31,7 +31,7 @@ list_of_files = [
     "app.py",
     "logs.py",
     "exception.py",
-    "requirements.py",
+    "requirements.txt",
     "dvc.yaml"
 
 ]
