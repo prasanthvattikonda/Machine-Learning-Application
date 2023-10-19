@@ -1,0 +1,12 @@
+1. Data Ingestion pipeline
+
+a. config.yaml - Completed
+b. constant file - Completed
+c. config_entity
+d. artificat_entity
+e. helper function
+f. data_ingestion file
+g. trainihng_pipeline
+h. testing
+
+
